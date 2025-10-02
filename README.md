@@ -2,6 +2,8 @@
 
 A powerful tool that generates creative blog title ideas from topics using OpenAI's GPT-3.5 Turbo and allows you to save your favorites in a mini content management system. Built with Next.js, TypeScript, and Tailwind CSS.
 
+https://github.com/user-attachments/assets/d6606da9-9035-49b0-9c7b-200eb4dd9d0c
+
 ## Features
 
 ### Core Functionality
